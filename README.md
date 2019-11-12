@@ -33,3 +33,9 @@ Notes and highlights from MICCAI 2019
 * Curriculum learning
 * Weakly supervised/semi-supervised learning with constraints/priors
 * Joint/Mutual learning tasks (exmaple: Segmentation and registration)
+
+# EndoVis Challenge
+
+* Stereo Correspondence and Reconstruction of Endoscopic Data Sub-Challenge
+...[Website](https://endovissub2019-scared.grand-challenge.org/)
+...[Challenge results and PPT](https://intusurg.ent.box.com/s/lifqkwjk2lc56w6lim4eribeg68jxxz1)
