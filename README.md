@@ -12,7 +12,7 @@ Notes and highlights from MICCAI 2019
 # Other papers that I also found interesting
 
 * A hybrid deep learning framework for integrated segmentation and registration: evaluation on longitudinal white matter tract changes [PDF](https://arxiv.org/pdf/1908.10221.pdf)
-* Cardiac Segmentation from LGE MRI Using Deep Neural Network Incorporating Shape and Spatial Priors [PDF](https://arxiv.org/pdf/1908.10221.pdf)
+* Cardiac Segmentation from LGE MRI Using Deep Neural Network Incorporating Shape and Spatial Priors [PDF](https://arxiv.org/pdf/1906.07347.pdf)
 * GraphX$^{NET}-$ Chest X-Ray Classification Under Extreme Minimal Supervision [PDF](https://arxiv.org/pdf/1907.10085.pdf)
 * PHiSeg: Capturing Uncertainty in Medical Image Segmentation [PDF](https://arxiv.org/pdf/1906.04045.pdf)
 * Self-Supervised Learning for Cardiac MR Image Segmentation by Anatomical Position Prediction [PDF](https://arxiv.org/pdf/1907.02757.pdf)
