@@ -32,7 +32,7 @@ Notes and highlights from MICCAI 2019
 
 * Curriculum learning
 * Weakly supervised/semi-supervised learning with constraints/priors
-* Joint/Mutual learning tasks (exmaple: Segmentation and registration)
+* Joint/Mutual learning tasks (example: Segmentation and registration)
 
 # EndoVis Challenge
 
